@@ -1,0 +1,11 @@
+Declining world fertility rates
+
+- potential relationships
+    - GDP
+- predicitions w/ML
+    - future fertility rates
+    - future GDP
+
+
+todo:
+- collect data thru http requests on GDP and fertility
