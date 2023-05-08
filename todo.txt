@@ -8,4 +8,8 @@ Declining world fertility rates
 
 
 todo:
-- collect data thru http requests on GDP and fertility
+    - combine gdp, birth rate tables
+    - visualize data
+        - gdp compared to birth rate every year for each country
+        - gdp compared to birth rate for each region
+        
