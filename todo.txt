@@ -9,5 +9,6 @@ Declining world fertility rates
 
 todo:
     - visualize data
-        - gdp compared to birth rate every year for each country
-        - gdp compared to birth rate for each region
+        -density plot for each year
+        -region plots
+    -hypothesis testing
