@@ -1,14 +1,11 @@
-Declining world fertility rates
-
-- potential relationships
-    - GDP
-- predicitions w/ML
-    - future fertility rates
-    - future GDP
 
 
 todo:
-    - visualize data
-        -density plot for each year
-        -region plots
-    -hypothesis testing
+    - 1500 words of prose
+        - explain OLA regression, correlation coefficient, plots,
+        add to intro, conclusion
+        -link to government policy
+        -link to plots
+        -explain groupby, merge, libraries, provide links
+        -host on github
+        -submit
